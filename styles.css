@@ -151,11 +151,7 @@ a:hover{
   position: fixed;
   left: 30px;
   top: 30px;
-  border-style: dotted;
-  border-radius: 90px;
-  border-color: #7FC8A9;
-  border-width: 5px;
-  box-sizing: border-box;
+  z-index: 1; 
 }
 .hipic{
   width: 200px;
